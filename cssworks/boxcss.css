@@ -1,0 +1,23 @@
+h1{ font-family: 'Sansita Swashed', cursive;
+    
+}
+#ab{
+border-style: solid;
+border-color:red;
+border-width:60%;
+width:35%;
+margin-left: 25%;
+padding-left: 25%;
+background-color: sienna;
+font-family: 'Nerko One', cursive;
+}
+#bc{
+border-style: solid;
+    border-color: seagreen;
+    width:35%;
+    margin-left:25%;
+    margin-top:50%;
+    padding-left:25%;
+    background-color: violet;
+    font-family: 'Sansita Swashed', cursive;
+}
