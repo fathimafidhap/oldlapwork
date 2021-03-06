@@ -1,8 +1,8 @@
-var num = 2;
+var num = 3;
 var lower = 4;
 var upper = 40;
 //
-//1**3=1 2**3=8 3**3=27
+//1**3=1 2**3=8 3**3=27  4**3=
 //8 27
 for (let i = 1; i <= upper; i++)
 {
